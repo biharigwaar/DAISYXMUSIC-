@@ -39,7 +39,7 @@ checker = {}
 upvoters = {}
 
 
-@app.on_callback_query(filters.regex("ADMIN") & ~BANNED_USERS)
+@app.on_callback_query(filters.regex("mADMIN") & ~BANNED_USERS)
 @languageCB
 async def del_back_playlist(client, CallbackQuery, _):
     callback_data = CallbackQuery.data.strip()
