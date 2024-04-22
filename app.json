@@ -14,17 +14,17 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "16844777",
+        "value": "3595472",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "fdcf5556bf37d26d960f8bc4c263d492",
+        "value": "1e1f25564047e2994d35ef7785ab6f04",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "l6771447740:AAGHl1_lzNcdtE3qyPYyeKArqLBHSIYYdIc",
+        "value": "7071894528:AAGNtdQ2Of6vR-UHqaG3eCRs902MDm1PwQU",
         "required": true
       },
       "MONGO_DB_URI": {
